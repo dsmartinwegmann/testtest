@@ -9,5 +9,5 @@ Contact: martin.wegmann2@unibe.ch
 This project is funded by grandma
 ## Content
 This project contains
-* nice photos
+* nice paintings
 * code and scripts
