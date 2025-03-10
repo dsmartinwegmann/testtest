@@ -6,3 +6,7 @@ Name: Martin Wegmann
 Contact: martin.wegmann2@unibe.ch
 ## Funding
 This project is funded by grandma
+## Content
+This project contains
+* nice photos
+* code and scripts
